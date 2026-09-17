@@ -10,6 +10,7 @@
 ## Actividad 1 — Programación Orientada a Objetos
 
 **Estudiante:** Laura Camila Rios Quintero
+
 **Profesor:** Walter Hugo Arboleda Mazo
 
 ---
