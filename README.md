@@ -19,4 +19,4 @@
 |-----------|-------------|
 | Actividad 1 | Ejercicios básicos con clases en Python (Familia, Seguimiento, Empleado, Numero, Circulo) |
 | Actividad 2 | Clases Persona, Planeta, Automóvil, Figuras geométricas y Cuenta bancaria |
-| Actividad 3 | Ventana Notas, Volumen y superficie de figuras geometricas |
+| Actividad 3 | Ventana Notas, Volumen y superficie de figuras geométricas |
